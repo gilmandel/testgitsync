@@ -1,0 +1,38 @@
+{
+  "IsAvailableForCommunity": false,
+  "Identifier": "test integration",
+  "ShouldInstalledInSystem": false,
+  "Version": 1.0,
+  "DisplayName": "test integration",
+  "Description": null,
+  "ImageBase64": null,
+  "SvgImage": null,
+  "IsCustom": true,
+  "PythonVersion": 3,
+  "IntegrationProperties": [],
+  "IntegrationSupportedActions": [
+    {
+      "Name": "test action",
+      "Description": "",
+      "Id": 82,
+      "CreationTimeUnixTimeInMs": 1764238893694,
+      "ModificationTimeUnixTimeInMs": 1764238893694
+    }
+  ],
+  "Categories": null,
+  "HasConnectors": false,
+  "DocumentationLink": null,
+  "IsCertified": false,
+  "UploaderFullName": "Ronaldinho Gaucho",
+  "PublishComment": null,
+  "UploaderEmail": "ronaldinho@example.com",
+  "UploaderImageBase64": "",
+  "UploaderProfileLink": null,
+  "MinimumSystemVersion": 0.0,
+  "ProductionIntegrationIdentifier": null,
+  "Type": 0,
+  "Internal": false,
+  "Id": 0,
+  "CreationTimeUnixTimeInMs": 1764238876533,
+  "ModificationTimeUnixTimeInMs": 1764238876533
+}
